@@ -4,8 +4,8 @@ A modern, responsive *Portfolio Website* built using *HTML, **CSS, and **JavaScr
 
 ## 🌐 Live Demo
 
-[Click here to view my live portfolio]()  
-(Replace with your actual GitHub Pages link)
+[click here to view my live portfolio](https://github.com/kumaripalak5/Portfolio.git) 
+
 
 ---
 
@@ -25,8 +25,7 @@ A modern, responsive *Portfolio Website* built using *HTML, **CSS, and **JavaScr
 
 - *HTML5* – Semantic layout structure  
 - *CSS3* – Flexbox, Grid, Media Queries, Transitions  
-- *JavaScript* – DOM Manipulation, Interactivity, Theme toggle  
-- (Optional) EmailJS / SMTP.js – Contact form email service  
+- *JavaScript* – DOM Manipulation, Interactivity, Theme toggle   
 
 ---
 
